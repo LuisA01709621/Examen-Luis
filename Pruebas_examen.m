@@ -1,3 +1,6 @@
+%Pido perdón a quien lea esto, los codigos de cada programa estan en su respectiva varpeta, pero queria añadir el programa que hice durante el examen :P.
+%A quien lea esto, gracias por leer.
+
 %%
 clc
 close all
